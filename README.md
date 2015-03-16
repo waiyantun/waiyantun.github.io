@@ -1,3 +1,3 @@
 My GitHub Page // 
 
-<a href="http://waiyantun.github.io">waiyantun.github.io</a>
+[waiyantun.github.io](http://waiyantun.github.io)
